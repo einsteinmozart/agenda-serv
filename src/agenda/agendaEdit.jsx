@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+/*import React, { Component } from 'react'
 
 export default props => {
    const   procurardata =(Diaprocurado) => 
@@ -7,7 +7,7 @@ export default props => {
    
 }
 
-    /*const renderTarefas = () => {
+    const renderTarefas = () => {
         const tarefas = props.tarefas || []
         return tarefas.map(funcionario =>(
 
